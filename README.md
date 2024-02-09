@@ -6,7 +6,7 @@
 
 ## History
 
-Mario stands for M.A.R. Input Output Data transfer of our accounting data between different OS or Frameworks.
+Mario stands for M.A.R. Input Output Data transfer of our accounting data to different OS or Frameworks.
 
 - It is a project I started in 1987 for porting accounting data from systems created by Mallard BASIC B-Plus tree from CP/M to MS-DOS.
 - Few years later when Windows 3.1 and Visual Basic 2.0 came around the corner in 1992, it did the transfer between Mallard Basic B-Plus tree data to NOVELL database.
